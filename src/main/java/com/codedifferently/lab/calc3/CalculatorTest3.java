@@ -7,6 +7,7 @@ public class CalculatorTest3 {
 
         //Use the Calculator object and arguments supplied to findTotal()
         //to print the total for each person
+        
 
 
 

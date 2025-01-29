@@ -5,6 +5,19 @@ public class CalculatorTest3 {
 
         Calculator3 calc = new Calculator3();
 
+        calc.findTotal(10);
+        calc.findTotal(12);
+        calc.findTotal(9);
+        calc.findTotal(8);
+        calc.findTotal(7);
+        calc.findTotal(15);
+        calc.findTotal(12);
+        calc.findTotal(30);
+
+
+
+
+
         //Use the Calculator object and arguments supplied to findTotal()
         //to print the total for each person
         

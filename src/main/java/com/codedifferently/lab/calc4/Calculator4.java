@@ -6,6 +6,7 @@ public class Calculator4 {
     public double tableTotal = 0;
 
 
+
     //Include the cost of Alex's and Forgetful's meals in your calculations
     //Return the total after calculating
     public void findTotal(double price, String name) {
@@ -13,6 +14,7 @@ public class Calculator4 {
         System.out.println(name + ": $" + total);
 
         tableTotal += total;
+
     }
         public void printTableTotal() {
             System.out.println("Total bill for the table: $" + tableTotal);

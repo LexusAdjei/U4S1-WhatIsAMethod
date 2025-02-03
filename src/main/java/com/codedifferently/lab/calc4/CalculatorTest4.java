@@ -6,14 +6,13 @@ public class CalculatorTest4 {
         Calculator4 calc = new Calculator4();
 
         //Name your friends
-        calc.findTotal(10, "Noah");
-        calc.findTotal(12, "Ryan");
-        calc.findTotal(9,  "Chase");
-        calc.findTotal(8,  "Dale");
-        calc.findTotal(7,  "Justin");
-        calc.findTotal(15, "Alex");
-        calc.findTotal(11, "Denny");
-        calc.findTotal(30, "Forgetful");
+        calc.findTotal(18, "Noah");
+        calc.findTotal(20, "Ryan");
+        calc.findTotal(16,  "Chase");
+        calc.findTotal(15,  "Dale");
+        calc.findTotal(14,  "Justin");
+        calc.findTotal(19, "Denny");
+
 
         //Find and print the entire table's total, including tax and tip
 
